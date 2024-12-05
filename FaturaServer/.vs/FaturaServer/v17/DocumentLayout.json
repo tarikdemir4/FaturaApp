@@ -1,0 +1,171 @@
+{
+  "Version": 1,
+  "WorkspaceRootPath": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\",
+  "Documents": [
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|c:\\users\\demir\\desktop\\ymyp1-main\\08.projeler\\faturaapp\\faturaserver\\faturaserver.minimalapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|solutionrelative:faturaserver.minimalapi\\models\\order.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|c:\\users\\demir\\desktop\\ymyp1-main\\08.projeler\\faturaapp\\faturaserver\\faturaserver.minimalapi\\models\\orderdetailinvoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|solutionrelative:faturaserver.minimalapi\\models\\orderdetailinvoicedetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|c:\\users\\demir\\desktop\\ymyp1-main\\08.projeler\\faturaapp\\faturaserver\\faturaserver.minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|solutionrelative:faturaserver.minimalapi\\models\\product.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|c:\\users\\demir\\desktop\\ymyp1-main\\08.projeler\\faturaapp\\faturaserver\\faturaserver.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|solutionrelative:faturaserver.minimalapi\\program.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|c:\\users\\demir\\desktop\\ymyp1-main\\08.projeler\\faturaapp\\faturaserver\\faturaserver.minimalapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|solutionrelative:faturaserver.minimalapi\\context\\applicationdbcontext.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|c:\\users\\demir\\desktop\\ymyp1-main\\08.projeler\\faturaapp\\faturaserver\\faturaserver.minimalapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|solutionrelative:faturaserver.minimalapi\\models\\orderdetail.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    },
+    {
+      "AbsoluteMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|c:\\users\\demir\\desktop\\ymyp1-main\\08.projeler\\faturaapp\\faturaserver\\faturaserver.minimalapi\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}",
+      "RelativeMoniker": "D:0:0:{DA7AC6A2-6384-469E-84FC-71A9C9405757}|FaturaServer.MinimalAPI\\FaturaServer.MinimalAPI.csproj|solutionrelative:faturaserver.minimalapi\\models\\invoice.cs||{A6C744A8-0E4A-4FC6-886A-064283054674}"
+    }
+  ],
+  "DocumentGroupContainers": [
+    {
+      "Orientation": 0,
+      "VerticalTabListWidth": 256,
+      "DocumentGroups": [
+        {
+          "DockedWidth": 200,
+          "SelectedChildIndex": 11,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{fbcae063-e2c0-4ab1-a516-996ea3dafb72}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{3ae79031-e1bc-11d0-8f78-00a0c9110057}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:129:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:130:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:132:0:{1fc202d4-d401-403c-9834-5b218574bb67}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:128:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Bookmark",
+              "Name": "ST:131:0:{116d2292-e37d-41cd-a077-ebacac4c8cc4}"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 3,
+              "Title": "Program.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Program.cs",
+              "RelativeDocumentMoniker": "FaturaServer.MinimalAPI\\Program.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Program.cs",
+              "RelativeToolTip": "FaturaServer.MinimalAPI\\Program.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:17:19.983Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 2,
+              "Title": "Product.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\Product.cs",
+              "RelativeDocumentMoniker": "FaturaServer.MinimalAPI\\Models\\Product.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\Product.cs",
+              "RelativeToolTip": "FaturaServer.MinimalAPI\\Models\\Product.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:17:18.641Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 1,
+              "Title": "OrderDetailInvoiceDetail.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\OrderDetailInvoiceDetail.cs",
+              "RelativeDocumentMoniker": "FaturaServer.MinimalAPI\\Models\\OrderDetailInvoiceDetail.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\OrderDetailInvoiceDetail.cs",
+              "RelativeToolTip": "FaturaServer.MinimalAPI\\Models\\OrderDetailInvoiceDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:17:17.588Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 5,
+              "Title": "OrderDetail.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\OrderDetail.cs",
+              "RelativeDocumentMoniker": "FaturaServer.MinimalAPI\\Models\\OrderDetail.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\OrderDetail.cs",
+              "RelativeToolTip": "FaturaServer.MinimalAPI\\Models\\OrderDetail.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:17:16.424Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 0,
+              "Title": "Order.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\Order.cs",
+              "RelativeDocumentMoniker": "FaturaServer.MinimalAPI\\Models\\Order.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\Order.cs",
+              "RelativeToolTip": "FaturaServer.MinimalAPI\\Models\\Order.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:17:12.696Z",
+              "EditorCaption": ""
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 6,
+              "Title": "Invoice.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\Invoice.cs",
+              "RelativeDocumentMoniker": "FaturaServer.MinimalAPI\\Models\\Invoice.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Models\\Invoice.cs",
+              "RelativeToolTip": "FaturaServer.MinimalAPI\\Models\\Invoice.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:17:11.356Z"
+            },
+            {
+              "$type": "Document",
+              "DocumentIndex": 4,
+              "Title": "ApplicationDbContext.cs",
+              "DocumentMoniker": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeDocumentMoniker": "FaturaServer.MinimalAPI\\Context\\ApplicationDbContext.cs",
+              "ToolTip": "C:\\Users\\demir\\Desktop\\YMYP1-main\\08.Projeler\\FaturaApp\\FaturaServer\\FaturaServer.MinimalAPI\\Context\\ApplicationDbContext.cs",
+              "RelativeToolTip": "FaturaServer.MinimalAPI\\Context\\ApplicationDbContext.cs",
+              "ViewState": "AQIAAAAAAAAAAAAAAAAAAAAAAAAAAAAA",
+              "Icon": "ae27a6b0-e345-4288-96df-5eaf394ee369.000738|",
+              "WhenOpened": "2024-07-17T08:17:08.319Z"
+            }
+          ]
+        },
+        {
+          "DockedWidth": 1871,
+          "SelectedChildIndex": -1,
+          "Children": [
+            {
+              "$type": "Bookmark",
+              "Name": "ST:0:0:{34e76e81-ee4a-11d0-ae2e-00a0c90fffc3}"
+            }
+          ]
+        }
+      ]
+    }
+  ]
+}
